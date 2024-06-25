@@ -10,7 +10,7 @@ additional_files = [
 ]
 
 # All locally installed packages get included in the release by default, so exclude them to reduce build size
-excludes = ["cryptography", "email", "http", "numpy", "PIL", "pydoc_data", "pytest", "tkinter", "unittest", "xml"]
+excludes = ["cryptography", "email", "numpy", "PIL", "pydoc_data", "pytest", "tkinter", "unittest", "xml"]
 
 # Include additional files in the build
 build_exe_options = {
