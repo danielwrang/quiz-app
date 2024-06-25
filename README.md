@@ -3,6 +3,10 @@ The project creates a Quiz application with `Python3` and `Qt6` for the graphica
 To compile the program into a Windows executable, the package `cx_Freeze` is used.
 The quiz questions are stored in JSON files.
 
+## Releases
+Instead of building from source, Windows releases are available on the release page:
+https://github.com/danielwrang/quiz-app/releases.
+
 ## Contents
 * `config` - JSON file for configuration of the app.
 * `documentation` - The raw version of the user manual, gets converted into PDF during release build.
