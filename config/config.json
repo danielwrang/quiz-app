@@ -1,0 +1,10 @@
+{
+	"shuffle_questions": true,
+	"test_quiz": {
+		"length_minutes": 120,
+		"number_questions": 120
+	},
+	"export_pdf": {
+		"include_answer_directly_after_question": false
+	}
+}

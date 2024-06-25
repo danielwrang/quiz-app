@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which is the largest continent by land area?",
+    "options": {
+      "a": "Africa",
+      "b": "Asia",
+      "c": "Europe",
+      "d": "North America",
+      "e": "South America"
+    },
+    "answer": "b",
+    "rationale": "Asia is the largest continent, covering approximately 44.58 million square kilometers."
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": {
+      "a": "Sydney",
+      "b": "Melbourne",
+      "c": "Canberra",
+      "d": "Perth",
+      "e": "Brisbane"
+    },
+    "answer": "c",
+    "rationale": "Canberra is the capital city of Australia, chosen as a compromise between Sydney and Melbourne."
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "options": {
+      "a": "Amazon",
+      "b": "Nile",
+      "c": "Yangtze",
+      "d": "Mississippi",
+      "e": "Mekong"
+    },
+    "answer": "b",
+    "rationale": "The Nile River, flowing through northeastern Africa, is traditionally considered the longest river in the world."
+  },
+  {
+    "question": "Which country has the highest population density?",
+    "options": {
+      "a": "Monaco",
+      "b": "Singapore",
+      "c": "Bangladesh",
+      "d": "India",
+      "e": "Japan"
+    },
+    "answer": "a",
+    "rationale": "Monaco has the highest population density in the world with approximately 26,150 people per square kilometer."
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "options": {
+      "a": "Vatican City",
+      "b": "Monaco",
+      "c": "Nauru",
+      "d": "San Marino",
+      "e": "Liechtenstein"
+    },
+    "answer": "a",
+    "rationale": "Vatican City is the smallest country in the world, with an area of about 44 hectares (110 acres)."
+  }
+]

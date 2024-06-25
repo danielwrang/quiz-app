@@ -1,0 +1,9 @@
+cx_Freeze==7.1.0.post0
+cx_Logging==3.2.0
+fpdf==1.7.2
+jsonschema==4.22.0
+jsonschema-specifications==2023.12.1
+mdpdf==0.0.18
+PyQt6==6.7.0
+PyQt6-Qt6==6.7.1
+PyQt6-sip==13.6.0

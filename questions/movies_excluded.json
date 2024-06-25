@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which film won the Academy Award for Best Picture in 2020?",
+    "options": {
+      "a": "1917",
+      "b": "Joker",
+      "c": "Parasite",
+      "d": "Once Upon a Time in Hollywood",
+      "e": "Ford v Ferrari"
+    },
+    "answer": "c",
+    "rationale": "\"Parasite\" won the Academy Award for Best Picture in 2020, becoming the first non-English language film to do so."
+  },
+  {
+    "question": "Who directed the film 'Inception'?",
+    "options": {
+      "a": "Steven Spielberg",
+      "b": "Christopher Nolan",
+      "c": "Quentin Tarantino",
+      "d": "James Cameron",
+      "e": "David Fincher"
+    },
+    "answer": "b",
+    "rationale": "Christopher Nolan directed the film 'Inception', which was released in 2010."
+  },
+  {
+    "question": "Which actor played the character of Jack Dawson in 'Titanic'?",
+    "options": {
+      "a": "Brad Pitt",
+      "b": "Johnny Depp",
+      "c": "Leonardo DiCaprio",
+      "d": "Matt Damon",
+      "e": "Tom Cruise"
+    },
+    "answer": "c",
+    "rationale": "Leonardo DiCaprio played the character of Jack Dawson in the film 'Titanic'."
+  },
+  {
+    "question": "Which film features the famous quote, 'Here's looking at you, kid'?",
+    "options": {
+      "a": "Gone with the Wind",
+      "b": "Citizen Kane",
+      "c": "Casablanca",
+      "d": "The Godfather",
+      "e": "It's a Wonderful Life"
+    },
+    "answer": "c",
+    "rationale": "The famous quote 'Here's looking at you, kid' is from the film 'Casablanca', starring Humphrey Bogart and Ingrid Bergman."
+  },
+  {
+    "question": "Who won the Academy Award for Best Actress for her role in 'La La Land'?",
+    "options": {
+      "a": "Emma Stone",
+      "b": "Natalie Portman",
+      "c": "Meryl Streep",
+      "d": "Jennifer Lawrence",
+      "e": "Brie Larson"
+    },
+    "answer": "a",
+    "rationale": "Emma Stone won the Academy Award for Best Actress for her role in the film 'La La Land'."
+  }
+]

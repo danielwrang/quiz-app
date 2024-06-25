@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "options": {
+      "a": "Germany",
+      "b": "Brazil",
+      "c": "France",
+      "d": "Argentina",
+      "e": "Spain"
+    },
+    "answer": "c",
+    "rationale": "France won the FIFA World Cup in 2018, defeating Croatia 4-2 in the final."
+  },
+  {
+    "question": "Who holds the record for the most home runs in a single MLB season?",
+    "options": {
+      "a": "Babe Ruth",
+      "b": "Hank Aaron",
+      "c": "Barry Bonds",
+      "d": "Mark McGwire",
+      "e": "Sammy Sosa"
+    },
+    "answer": "c",
+    "rationale": "Barry Bonds holds the record for the most home runs in a single MLB season with 73 home runs in 2001."
+  },
+  {
+    "question": "Which tennis player has won the most Grand Slam titles in men's singles?",
+    "options": {
+      "a": "Rafael Nadal",
+      "b": "Roger Federer",
+      "c": "Novak Djokovic",
+      "d": "Pete Sampras",
+      "e": "Rod Laver"
+    },
+    "answer": "c",
+    "rationale": "Novak Djokovic holds the record for the most Grand Slam titles in men's singles."
+  },
+  {
+    "question": "Which team won the NBA Championship in 2020?",
+    "options": {
+      "a": "Miami Heat",
+      "b": "Golden State Warriors",
+      "c": "Los Angeles Lakers",
+      "d": "Toronto Raptors",
+      "e": "Boston Celtics"
+    },
+    "answer": "c",
+    "rationale": "The Los Angeles Lakers won the NBA Championship in 2020, defeating the Miami Heat."
+  },
+  {
+    "question": "Who holds the record for the fastest 100m sprint in the world?",
+    "options": {
+      "a": "Usain Bolt",
+      "b": "Tyson Gay",
+      "c": "Yohan Blake",
+      "d": "Justin Gatlin",
+      "e": "Asafa Powell"
+    },
+    "answer": "a",
+    "rationale": "Usain Bolt holds the record for the fastest 100m sprint with a time of 9.58 seconds."
+  }
+]
